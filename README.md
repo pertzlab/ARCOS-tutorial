@@ -1,3 +1,5 @@
+[![DOI](https://zenodo.org/badge/772175564.svg)](https://doi.org/10.5281/zenodo.17201285)
+
 # ARCOS tutorial
 
 This tutorial describes a workflow to detect collective cell signalling in microscopy images and accompanies the manuscript published in [Methods in Microscopy](https://doi.org/10.1515/mim-2024-0003). 
